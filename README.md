@@ -2,8 +2,8 @@
 
 A small cross-platform scripting project that automates two common file-management tasks:
 
-1. **Backup Manager (PowerShell)** — creates filtered, timestamped backups, preserves folder structure, compresses the backup, and records logs and summary reports.
-2. **File Organizer (Bash)** — sorts files in a directory into Documents, Images, Scripts, and Others folders based on file type.
+1. **Backup Manager (PowerShell)**: creates filtered, timestamped backups, preserves folder structure, compresses the backup, and records logs and summary reports.
+2. **File Organizer (Bash)**: sorts files in a directory into Documents, Images, Scripts, and Others folders based on file type.
 
 I built these scripts to practice turning repetitive file-management tasks into more structured and repeatable workflows while strengthening my scripting, troubleshooting, validation, logging, and error-handling skills.
 
